@@ -1,4 +1,6 @@
-# cz9adVfP
+# Basketball scoreboard
+
+A simple basketball scoreboard where you can add +1, +2, or +3 to the home or guest score. Built using HTML, CSS, and JavaScript.
 
 ## About Scrimba
 
